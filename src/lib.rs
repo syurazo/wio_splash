@@ -1,3 +1,4 @@
+#![no_std]
 use embedded_graphics::{
     egcircle, egrectangle, egtext,
     fonts::Font8x16,
