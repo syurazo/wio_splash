@@ -6,3 +6,4 @@ edition = "2018"
 license = "MIT"
 
 [dependencies]
+embedded-graphics = "0.6.2"
